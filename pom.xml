@@ -44,7 +44,6 @@
 			<scope>runtime</scope>
 		</dependency>
     </dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -52,7 +51,5 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springbackendnew</finalName>
 	</build>
-
 </project>
